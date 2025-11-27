@@ -23,7 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:a.gholami1212@gmail.com"}
-  - {title: Google Scholar, icon: google scholar, url: "https://scholar.google.com/citations?user=Pg0gEaYAAAAJ&hl=en"}
+  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=Pg0gEaYAAAAJ&hl=en"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/aaali-gholami/"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
