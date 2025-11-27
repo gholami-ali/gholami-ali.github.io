@@ -18,7 +18,7 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", , icon: "regular-file", file: "ali.pdf"}
+  - {title: "CV", icon: "regular-file", file: "ali.pdf"}
   #- {title: "Google Scholar", url: "https://scholar.google.com/citations?user=Pg0gEaYAAAAJ&hl=en", icon: external-link-alt}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
