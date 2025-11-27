@@ -4,6 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
-### Email: a.gholami1212@gmail.com
+### Email: 
+a.gholami1212@gmail.com
 
-### Address: HFT Building, Einsteinsufer 25, 10587 Berlin.
+### Office Address: 
+HFT Building, Einsteinsufer 25, 10587 Berlin.
+
+Feel free to contact me about available positions, collaborations, or discussions!
