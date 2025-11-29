@@ -4,15 +4,12 @@ title: Research
 permalink: /research/
 ---
 
-# Research
 
-Here are my research posts:
+{% for post in site.posts %}
+## {{ post.title }}
+<p style="color:gray;">{{ post.date | date: "%B %d, %Y" }}</p>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <span style="color: gray;"> — {{ post.date | date: "%B %d, %Y" }}</span>
-    </li>
-  {% endfor %}
-</ul>
+{{ post.content }}
+
+<hr>
+{% endfor %}
