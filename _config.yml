@@ -20,7 +20,7 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: Home, url: "/"}
   - {title: Research, url: "/research/"}
-  - {title: CV, file: "CV.pdf"}
+  - {title: CV, url: "/CV.pdf"}
   - {title: Contact, url: "/contact/"}
   #- {title: "Google Scholar", url: "https://scholar.google.com/citations?user=Pg0gEaYAAAAJ&hl=en", icon: external-link-alt}
 
